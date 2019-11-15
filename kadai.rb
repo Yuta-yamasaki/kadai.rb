@@ -26,4 +26,14 @@ end
 true_or_false 0
 true_or_false 1
 
+#kadai 4
+#配列を扱ってみよう
+
+sports = ["baseball","soccer","basketball"]
+puts sports [0]
+
+foods =["beef","curry","vegetables","soup"]
+puts foods[3]
+
+
 
